@@ -16,4 +16,9 @@ https://www.kaggle.com/rtatman/data-cleaning-challenge-character-encodings
 Data graphs
 https://www.kaggle.com/kabure/kickstarter-interactive-explanatory-exploration
 
+ML Algorithms
 https://www.kaggle.com/majickdave/kickstarter-success-classifier-0-685
+
+Overall
+https://www.kaggle.com/dronqo/how-successful-is-your-kickstarter-project
+
