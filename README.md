@@ -1,4 +1,8 @@
-# CMPE256large_scale_analytics
+Published Databrick link 
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8873786094770436/1388045695940727/8719917603566843/latest.html
+
+
 Download Kickstarter-projects file from https://www.kaggle.com/kemical/kickstarter-projects.
 Save the ks-projects-201801.csv file from downloaded file into the root directory
 
