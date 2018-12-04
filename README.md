@@ -22,3 +22,4 @@ https://www.kaggle.com/majickdave/kickstarter-success-classifier-0-685
 Overall
 https://www.kaggle.com/dronqo/how-successful-is-your-kickstarter-project
 
+Github: https://github.com/srishtis/Kaggle-Kickstarter-Project-Status-Prediction
