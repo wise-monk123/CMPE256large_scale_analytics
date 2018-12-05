@@ -17,6 +17,8 @@ Steps to Run:
 -Upload ks-projects-201612.csv to Databrick's Data tab and create a table. 
 -Go to the workstation tab. Upload .ipynb file downloaded from Gitub. A new workstation is created now.
 -change the csv file path in this workstation to: /dbfs/FileStore/tables/ks_projects_201612-284ce.csv
+-Create a new cluster in the Clusters tab
+-Attach the cluster to the workstation.
 -Click "Run All" from the top tool bar.
 -P.S. Databricks doesn't support many pyplot graphs. Need to add display() to the codes if you want the graphs to display as in Jupyter notebook. 
 
