@@ -25,4 +25,5 @@ Steps to Run:
 
 Project Report: https://docs.google.com/document/d/1u_T3tA8vcUjgpnODTetCn5LkfwG0BZc68YjiQID4vWg/edit
 Presenation Slides: https://docs.google.com/presentation/d/1-bYMei6VTEn89Za8VZE0ZzUXEg8ycnoAlm_uj4jHesM/edit#slide=id.g489872b09a_0_162
+Research Paper: https://docs.google.com/document/d/1zxJZzKJ_FdclMxZIJt_Q6Nxln2apS2reh4SaQ8fVSN0/edit#
 
