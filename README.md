@@ -4,9 +4,9 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 Steps to Run: 
 1. For Jypyter Notebook
--Download Kickstarter-projects file from https://www.kaggle.com/kemical/kickstarter-projects.
--Save the ks-projects-201612.csv file into the root directory. 
--Download the code file .ipynb. Move this file to root directory.
+*-Download Kickstarter-projects file from https://www.kaggle.com/kemical/kickstarter-projects.
+*-Save the ks-projects-201612.csv file into the root directory. 
+*-Download the code file .ipynb. Move this file to root directory.
 -In Terminal, input command Jupyter Notebook
 -Browser will open Jupyter Notebook automatically after the last command
 -In the notebook home, find downloaded .ipynb file from this Github repository, click open.
