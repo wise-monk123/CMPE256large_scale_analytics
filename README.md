@@ -2,7 +2,7 @@
 
 **Published Databrick link**
 
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8873786094770436/1388045695940727/8719917603566843/latest.html
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8873786094770436/1388045695940727/8719917603566843/latest.html (Note: this link doesn't have the most updated code. For group project grading, please use the Jupyter Notebook .ipynb file in the repository. 
 
 Steps to Run: 
 1. **For Jypyter Notebook**
