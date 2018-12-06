@@ -1,4 +1,9 @@
 
+Linear regression 這個section 只是試試把那個東西drop掉之後 的model 有沒有用（沒有要用LR去做data reduction
+只看 r-square => 0.05 太低 => 這個model 不好用
+所以再開始reduce其他東西 =>改用PCA
+
+
 
 **Published Databrick link**
 
