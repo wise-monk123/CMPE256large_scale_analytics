@@ -4,6 +4,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 Steps to Run: 
 1. **For Jypyter Notebook**
+
 -Download Kickstarter-projects file from https://www.kaggle.com/kemical/kickstarter-projects.com
 
 -Save the ks-projects-201612.csv file into the root directory. 
@@ -20,6 +21,7 @@ Steps to Run:
 
 
 2. **For Databricks/Spark:**
+
 -Upload ks-projects-201612.csv to Databrick's Data tab and create a table. 
 
 -Go to the workstation tab. Upload .ipynb file downloaded from Gitub. A new workstation is created now.
